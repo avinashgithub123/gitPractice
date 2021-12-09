@@ -1,0 +1,97 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLTE>ABOUT NEPAL</TITLE>
+</HEAD>
+<BODY BGCOLOR="BLUE">
+<FONT SIZE="20"COLOR="RED"FACE="TIMES NEW ROMAN"><UL STYLE="LIST-STYLE-TYPE:DISC">
+<table border="2" style="width:100%" color="RED"align="center">
+<tr>
+<td><center>0-14</td></center>
+<td><center>4 714 763</td></center>
+<td><center>4 533 483</td></center>
+<td><center>9 248 246</td></center>
+<td><center> 34.91</td></center>
+</tr>
+<tr>
+<td><center>15-64</td></center>
+<td><center>7 437 790</td></center>
+<td><center>8 410 885</td></center>
+<td><center>15 848 675</td></center>
+<td><center> 59.82</td></center>
+</tr>
+<tr>
+<td><center>65+</td></center>
+<td><center>696 488</td></center>
+<td><center>701 095</td></center>
+<td><center>1 397 583</td></center>
+<td><center> 5.27</td></center>
+</tr>
+</table>
+<P><FONT SIZE="28"color="violet"face="unicorn"><U><CENTER>BIRTH RATE</P></FONT></U></CENTER>
+<TABLE border="2"style="width:50%"style="height:50%"align="center">
+<TR>
+<TH>2048</TH>
+<TH>2058</TH>
+<TH>2068</TH>
+</TR>
+<TR>
+<TD> 1.64% </TD>
+<TD> 2% </TD>
+<TD> 1.35% </TD>
+</TR>
+</TABLE>
+<P><FONT SIZE="28"color="violet"face="unicorn"><U><CENTER>DEATH RATE</P></FONT></U></CENTER>
+<TABLE border="2"style="width:50%"style="height:50%"align="center">
+<TR>
+<TH>2048</TH>
+<TH>2058</TH>
+<TH>2068</TH>
+</TR>
+<TR>
+<TD> 12.067 </TD>
+<TD> 8.470 </TD>
+<TD> 6.74 </TD>
+</TR>
+</TABLE>
+<P><FONT SIZE="28"color="violet"face="unicorn"><U><CENTER>Migration Rate</P></FONT></U></CENTER>
+<TABLE border="2"style="width:50%"style="height:50%"align="center">
+<TR>
+<TH>2048</TH>
+<TH>2058</TH>
+<TH>2068</TH>
+</TR>
+<TR>
+<TD> 0.517 </TD>
+<TD> -5.365 </TD>
+<TD> 12.009 </TD>
+</TR>
+</TABLE>
+<P><FONT SIZE="28"color="violet"face="unicorn"><U><CENTER>Area of Nepal</P></FONT></U></CENTER>
+<TABLE border="2"style="width:50%"style="height:50%"align="center">
+<TR>
+<TH>East to West</TH>
+<TH>North to South</TH>
+<TH>TOTAL AREA</TH>
+</TR>
+<TR>
+<TD> 800KM </TD>
+<TD> 250KM </TD>
+<TD> 147,516sq.km </TD>
+</TR>
+</TABLE>
+<IMG SRC="https://evisitnepal.com/wp-content/uploads/2020/04/naya-nepal-map-1210x642.jpg"border="2"height="300"width="600"align="center">
+<FONT SIZE="20"COLOR="RED"FACE="TIMES NEW ROMAN"><UL STYLE="LIST-STYLE-TYPE:SQUARE">
+<LI><FONT SIZE="8"COLOR="GREEN"><U><B>Province of Nepal</LI></FONT></U></B>
+</UL>
+<OL TYPE="1">
+<LI><FONT SIZE="8"COLOR="RED">Province No. 1</LI>
+<LI><FONT SIZE="8"COLOR="YELLOW">Province No.2</LI>
+<LI><FONT SIZE="8"COLOR="GREEN">Bagmati [Provice No.3]</LI>
+<LI><FONT SIZE="8"COLOR="PINK">Gandaki[Province No.4]</LI>
+<LI><FONT SIZE="8"COLOR="ORANGE">Province No.5</LI>
+<LI><FONT SIZE="8"COLOR="GREEN">Karnali[Province No.5]</LI>
+<LI><FONT SIZE="8"COLOR="RED">Sudurpachim[Province No.6]</LI>
+</UL>
+</BODY>
+</HTML>
